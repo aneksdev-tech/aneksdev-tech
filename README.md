@@ -13,8 +13,8 @@ I build modern web applications, AI-powered solutions, and digital products that
 </p>
 
 <p align="center">
-<a href="https://aneksdev.com">🌐 Portfolio</a> •
-<a href="https://anekslibrary.aneksdev.com">📚 Aneks Library</a> •
+<a href="https://aneksdev-portfolio.vercel.app">🌐 Portfolio</a> •
+<a href="https://aneks-library.vercel.app">📚 Aneks Library</a> •
 <a href="https://www.youtube.com/@AneksDev">📺 YouTube</a> •
 <a href="https://x.com/AneksDev">🐦 X</a>
 </p>
@@ -52,7 +52,7 @@ A role-based academic digital library designed to provide secure access to educa
 
 ### Live Demo
 
-🌐 https://anekslibrary.aneksdev.com
+🌐 https://aneks-library.vercel.app
 
 ### Repository
 
@@ -109,8 +109,8 @@ A role-based academic digital library designed to provide secure access to educa
 
 # 📫 Connect With Me
 
-* 🌐 Portfolio: https://aneksdev.com
-* 📚 Aneks Library: https://anekslibrary.aneksdev.com
+* 🌐 Portfolio: https://aneksdev-portfolio.vercel.app
+* 📚 Aneks Library: https://aneks-library.vercel.app
 * 📺 YouTube: https://www.youtube.com/@AneksDev
 * 🐦 X: https://x.com/AneksDev
 * 📧 Email: [aneksdev@gmail.com](mailto:aneksdev@gmail.com)
