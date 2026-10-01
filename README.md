@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/me2.png" alt="AneksDev Portrait" width="100%">
+  <img src="./assets/me2" alt="AneksDev Portrait" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm AneksDev</h1>
